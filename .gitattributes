@@ -1,0 +1,4 @@
+lb2.zip filter=lfs diff=lfs merge=lfs -text
+lb2_w.zip filter=lfs diff=lfs merge=lfs -text
+signal.zip filter=lfs diff=lfs merge=lfs -text
+signal_w.zip filter=lfs diff=lfs merge=lfs -text
